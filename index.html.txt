@@ -1,1 +1,0 @@
-https://stackblitz.com/edit/angular-ngx-otp-input?file=src%2Fapp%2Fapp.component.ts
